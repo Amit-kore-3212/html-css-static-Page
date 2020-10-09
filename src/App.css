@@ -39,7 +39,7 @@
 .div3{
 width: 25%;
 background-color: white;
-margin: 10px;
+margin: 5px;
 border-top: 2px solid blueviolet;
 border-radius: 5px;
 
@@ -47,20 +47,20 @@ border-radius: 5px;
 .div4{
  width: 25%;
  background-color: white;
- margin: 10px;
+ margin: 5px;
  border-top: 2px solid blueviolet;
- border-radius: 5px;
+
 }
 .div5{
 width: 25%;
-margin: 10px;
+margin: 5px;
 background-color: white;
 border-top: 2px solid blueviolet;
-border-radius: 5px;
+
 }
 .div6{
 width: 25%;
-margin: 10px;
+margin: 5px;
 background-color: white;
 border-top: 2px solid blueviolet;
 border-radius: 5px;
@@ -95,9 +95,9 @@ border-radius: 5px;
     flex: 1;
     width: 50%;
     height: 290px;
-    margin: 10px;
+    margin: 5px;
     background-color: white;
-    border-radius: 5px;
+
 
     
 }
@@ -107,8 +107,8 @@ border-radius: 5px;
     background-color: white;
     
     height: 290px;
-    border-radius: 5px;
-    margin: 10px;
+   
+    margin: 5px;
 }
 .a{
     font-family: Arial, Helvetica, sans-serif;color:blueviolet;font-size: 12px; text-decoration: none;
@@ -223,4 +223,7 @@ border-radius: 5px;
     background: plum;
     color: white;
 
+}
+.h4{
+    font-size: 20px;
 }
