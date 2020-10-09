@@ -125,54 +125,7 @@ border-radius: 5px;
     font-family: Arial, Helvetica, sans-serif;color: grey;
     font-size: 15px;
 }
-.nav{
- margin-top: 0;
-}
 
-.nav1{
-    padding-left: 70%;
-    padding-bottom: 10px;
-
-}
-
-.nav1 img{
-    float: middle;
-    padding-left: 30px;
-    height: 30px;
-}
-.wrapper{
-    width:100%;
-    margin : 0;
-    }
-    .nav2{
-        width:50%;
-        margin : 0;
-        float : left ;
-        }
-        .nav3{
-            
-                width:50%;
-                margin : 0;
-                float : left ;
-                
-        }
-        .div18{
-            flex: 1;
-            width: 100%;
-            padding-right: 10px;
-        }
-.width{
-    height: 7%;
-    padding-left: 60%;
-    
-}
-.width input{
-    background-color: lightgrey;
-    height: 30px;
-    border: 1px solid white;
-    border-radius: 5px;
-
-}
 .topNavBar{
     flex: 1;
 }
