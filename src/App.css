@@ -1,15 +1,15 @@
 
 
-.div{
+.icons{
     background-color:white;
  
 }
-.div i{
+.icons i{
     padding: 10px;
     padding-left: 15px;
     padding-right: 10px;
 }
-.div i:hover{
+.icons i:hover{
     background-color: blue;
     color: white;
 }
@@ -17,11 +17,11 @@
    display: flex; 
    width: 100%;
 }
-.div1{
+.sidebar{
  width: 3%;
     
 }
-.div2{
+.mainPage{
     padding: 5px;
     background-color:lightgray;
     width: 100%;
@@ -30,14 +30,14 @@
   
 }
 
-.div2 i{
+.mainPage i{
     padding-left: 40px;
 }
 .container2{
     display: flex;
 
 }
-.div3{
+.section{
 width: 25%;
 background-color: white;
 margin: 5px;
@@ -45,21 +45,21 @@ border-top: 2px solid blueviolet;
 border-radius: 5px;
 
 }
-.div4{
+.section1{
  width: 25%;
  background-color: white;
  margin: 5px;
  border-top: 2px solid blueviolet;
 
 }
-.div5{
+.section2{
 width: 25%;
 margin: 5px;
 background-color: white;
 border-top: 2px solid blueviolet;
 
 }
-.div6{
+.section3{
 width: 25%;
 margin: 5px;
 background-color: white;
@@ -68,7 +68,7 @@ border-radius: 5px;
 }
 .block{
     float: right;
-    padding-right: 10px;
+    padding-right: 15px;
     font-family: 'Times New Roman', Times, serif;
 }
 .block p{
@@ -76,23 +76,23 @@ border-radius: 5px;
     font-size: 10px;
     color: gray;
 }
-.div3 i{
+.section i{
     padding: 15px;
 }
-.div4 i {
+.section1 i {
     padding: 15px;
 }
-.div5 i {
+.section2 i {
     padding: 15px;
 }
-.div6 i {
+.section3 i {
     padding: 15px;
 }
 .container3{
     display: flex;
 
 }
-.div7{
+.content-left{
     flex: 1;
     width: 50%;
     height: 350px;
@@ -102,7 +102,7 @@ border-radius: 5px;
 
     
 }
-.div8{
+.content-right{
     flex: 1;
     width: 50%;
     background-color: white;
@@ -111,13 +111,13 @@ border-radius: 5px;
    
     margin: 5px;
 }
-.a{
+.home{
     font-family: Arial, Helvetica, sans-serif;color:blueviolet;font-size: 12px; text-decoration: none;
 }
-.a2{
+.dashboard{
     font-family: Arial, Helvetica, sans-serif;color:grey;font-size: 12px
 }
-.h3{
+.name{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 17px;
 }
@@ -173,10 +173,10 @@ border-radius: 5px;
     border-radius: 5px;
 
 }
-.div18{
+.topNavBar{
     flex: 1;
 }
-.top{
+.search{
     height: 6%;
     padding-left: 70%;
     display: flex;
@@ -187,14 +187,14 @@ border-radius: 5px;
     background-color: lightgray;
     border: 1px solid white;
 }
-.i1 i{
+.bell i{
     height: 25px;
     width: 25px;
     background-color: lightgray;
     align-items: center;
     border-radius: 50%;
 }
-.i2 i{
+.comment i{
     height: 25px;
     width: 25px;
     background-color: lightgray;
@@ -202,19 +202,19 @@ border-radius: 5px;
     border-radius: 50%;
 
 }
-.bell{
+.bell-notification{
    position: absolute;
    font-size: 10px;
    width: 1px;
    top: 0px;
-   right: 145px;
+   right: 135px;
    padding: 5px 10px;
    border-radius: 50%;
    background: plum;
    color: white;
  
 }
-.bell1{
+.comment-notification{
     position: absolute;
     font-size: 10px;
     top: 0px;
@@ -227,4 +227,5 @@ border-radius: 5px;
 }
 .h4{
     font-size: 20px;
+    
 }
